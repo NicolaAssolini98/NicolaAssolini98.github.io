@@ -14,15 +14,12 @@ Recently I have been working on semantics of quantum languages and high level qu
 3. [Invited Talks](#invited-talks)
 4. [Contact Information](#contact-information) -->
 
-<!-- ## Ongoing Projects
-
-- [QUASK] quantum machine learning software written in Python that supports researchers in designing, experimenting, and assessing different quantum and classic kernels performance. -->
+<!-- ## Ongoing Projects  -->
 
 ## Talks
 
 - Workshop on Quantum Software, QTML 2020
   - Talk title: *A Static Analysis of Uncomputation*
-  - 12 November 2022 at IBS Center for Theoretical Physics of Complex
 
 ## Career
 
@@ -51,7 +48,14 @@ Recently I have been working on semantics of quantum languages and high level qu
 
 - Teaching Assistant, *Compilers* course (Laboratory part), *BSc Computer Science*, **University of Verona** (2022 - 2023)
 
-- Organizer and Tutor, *Cyberchallenge*, **University of Verona** (2022 - 2023)
+- Organizer and Tutor, *Cyberchallenge*, **University of Verona** (2022 - )
+
+## Achievements 
+- Qualified for the national competition of the CyberChallenge.IT project (2021 - 2022)
+
+- Member of a finalist team in the National Mathematics Olympics (2017)
+
+
 
 ## Contact Information
 
