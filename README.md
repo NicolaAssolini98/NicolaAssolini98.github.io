@@ -50,6 +50,15 @@ Recently I have been working on semantics of quantum languages and high level qu
 
 - Organizer and Tutor, *Cyberchallenge*, **University of Verona** (2022 - )
 
+
+<!-- ## Academic service
+- Reviewer for:
+  - Quantum Machine Intelligence
+- Program and Organizing Committee:
+  - [Workshop on Quantum Software (2024)](https://pldi24.sigplan.org/home/wqs-2024)  
+- Video Chair: [SPLASH (2024)](https://2024.splashcon.org/committee/splash-2024-organizing-committee)
+  -->
+
 ## Achievements 
 - Qualified for the national competition of the CyberChallenge.IT project (2021 - 2022)
 
