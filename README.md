@@ -4,7 +4,8 @@ Quantum Programming Languages PhD Student at University of Verona
 
 ## About Me
 
-I am a doctoral student at the University of Verona, my research interests are in quantum programming languages, semantics of programming languages, static analysis, category theory and topological quantum computing.
+I am a doctoral student at the University of Verona, my research interests are in quantum programming languages, semantics of programming languages, static analysis.
+<!--, category theory and topological quantum computing. -->
 Recently I have been working on semantics of quantum languages and high level quantum languages.
 
 <!-- ## Markdown linting and style checking for Visual Studio Code
@@ -14,12 +15,12 @@ Recently I have been working on semantics of quantum languages and high level qu
 3. [Invited Talks](#invited-talks)
 4. [Contact Information](#contact-information) -->
 
-<!-- ## Ongoing Projects  -->
+<!-- ## Ongoing Projects  
 
 ## Talks
 
 - Workshop on Quantum Software, QTML 2020
-  - Talk title: *A Static Analysis of Uncomputation*
+  - Talk title: *A Static Analysis of Uncomputation* -->
 
 ## Career
 
