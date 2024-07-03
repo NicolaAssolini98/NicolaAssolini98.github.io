@@ -55,6 +55,13 @@ Recently I have been working on semantics of quantum languages and high level qu
 
 - Organizer and Tutor, *Cyberchallenge*, **University of Verona** (2022 - )
 
+## Service
+
+Volunteering, SIGPLAN January 2024 – Present
+• AV Student Volunteer, POPL 2024, London, UK.
+• AV Student Volunteer, PLDI 2024, Copenaghen, DK.
+• Video co-chair, SPLASH 2024, Pasadena, USA.
+
 
 <!-- ## Academic service
 - Reviewer for:
