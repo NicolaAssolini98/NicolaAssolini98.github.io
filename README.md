@@ -49,18 +49,21 @@ Recently I have been working on semantics of quantum languages and high level qu
 
 ## Teaching and Tutoring
 
-- Teaching Assistant, *Foundations of Computing* course, *BSc Computer Science*, **University of Verona** (2020 - )
+- Teaching Assistant, *Quanutum computing* course, *MSc Computer Science*, **University of Verona** (2024 - Present)
+
+- Teaching Assistant, *Foundations of Computing* course, *BSc Computer Science*, **University of Verona** (2020 - Present)
+
+- Organizer and Tutor, *Cyberchallenge*, **University of Verona** (2022 - Present)
 
 - Teaching Assistant, *Compilers* course (Laboratory part), *BSc Computer Science*, **University of Verona** (2022 - 2023)
 
-- Organizer and Tutor, *Cyberchallenge*, **University of Verona** (2022 - )
 
 ## Service
 
 Volunteering, SIGPLAN January 2024 – Present
-• AV Student Volunteer, POPL 2024, London, UK.
-• AV Student Volunteer, PLDI 2024, Copenaghen, DK.
-• Video co-chair, SPLASH 2024, Pasadena, USA.
+  - AV Student Volunteer, POPL 2024, London, UK.
+  - AV Student Volunteer, PLDI 2024, Copenaghen, DK.
+  - Video co-chair, SPLASH 2024, Pasadena, USA.
 
 
 <!-- ## Academic service
