@@ -32,9 +32,9 @@ Recently I have been working on semantics of quantum languages and high level qu
   - Role *Undergraduate Research Fellow*
   - Document clustering and semantic web methodologies
 
- - **ALTAIR Robotics Lab, University of Verona** (09/2018 - 11/2018)  
-  - Role *Undergraduate Research Fellow*
-  - Design and implementation Of algorithms for statistical analysis of experimental results
+ - **ALTAIR Robotics Lab, University of Verona** (09/2018 - 11/2018)
+   - Role *Undergraduate Research Fellow*
+   - Design and implementation Of algorithms for statistical analysis of experimental results
 
 ## Education
 
