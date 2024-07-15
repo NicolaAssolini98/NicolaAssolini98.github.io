@@ -15,12 +15,12 @@ Recently I have been working on semantics of quantum languages and high level qu
 3. [Invited Talks](#invited-talks)
 4. [Contact Information](#contact-information) -->
 
-<!-- ## Ongoing Projects  
+<!-- ## Ongoing Projects   -->
 
-## Talks
+## Talks and Short Paper
 
-- Workshop on Quantum Software, QTML 2020
-  - Talk title: *A Static Analysis of Uncomputation* -->
+- Workshop on Quantum Software, PLDI 2024
+  - Talk title: *A Static Analysis for High-Level Quantum Programming Languages*
 
 ## Career
 
