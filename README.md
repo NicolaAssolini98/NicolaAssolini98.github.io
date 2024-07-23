@@ -20,7 +20,7 @@ Recently I have been working on semantics of quantum languages and high level qu
 ## Talks and Short Paper
 
 - Workshop on Quantum Software, PLDI 2024
-  - Talk title: *A Static Analysis for High-Level Quantum Programming Languages*, [Video](https://www.youtube.com/watch?v=og-IOQeiqh0)
+  - Talk title: *A Static Analysis for High-Level Quantum Programming Languages*, ([Video](https://www.youtube.com/watch?v=og-IOQeiqh0))
   - 
 
 ## Career
