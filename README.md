@@ -22,12 +22,11 @@ My research interests are quantum programming languages, in particular semantics
 - 2024
     - *Static analysis of quantum programs*,
     Static Analysis: 31th International Symposium (**SAS 2024**)
-    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella 
-
-
-  - *Abstracting entanglement*, 
-  International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**)
-  Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/nsad24.pdf)]
+    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/sas24.pdf)]
+    
+    - *Abstracting entanglement*, 
+    International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**)
+    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/nsad24.pdf)]
 
 
 
