@@ -104,5 +104,7 @@ I am part of [SIGPLAN-AV team](https://www.sigplan.org/AV/).
 ## Contact Information
 
 - *Email*: nicola.assolini \<at\> univr.it
-- *LinkedIn*: [www.linkedin.com/in/nicola-assolini-73508516a/](https://it.linkedin.com/in/nicola-assolini-73508516a)
+- [*LinkedIn*](https://it.linkedin.com/in/nicola-assolini-73508516a)
+- [*Scholar*](https://scholar.google.com/citations?user=wKwxnKkAAAAJ&hl=it)
+- *ORCiD*: [0000-0002-6754-6206](https://orcid.org/0000-0002-6754-6206)
 
