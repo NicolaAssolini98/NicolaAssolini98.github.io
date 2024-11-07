@@ -33,7 +33,8 @@ My research interests are quantum programming languages, in particular semantics
 
 ## Talk
 
-- *A Static Analysis for High-Level Quantum Programming Languages*, Workshop on Quantum Software 24, PLDI 2024 ([Video](https://www.youtube.com/watch?v=og-IOQeiqh0))
+- 2024
+    - *A Static Analysis for High-Level Quantum Programming Languages*, Workshop on Quantum Software 24, PLDI 2024 ([Video](https://www.youtube.com/watch?v=og-IOQeiqh0))
 
 
 
