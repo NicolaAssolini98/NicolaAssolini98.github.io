@@ -19,13 +19,18 @@ My research interests are quantum programming languages, in particular semantics
 <!-- ## Ongoing Projects   -->
 ## Publications
 
+- 2025
+    - *A Static Analysis of Entanglement*,
+    26th International Conference on Verification, Model Checking, and Abstract Interpretation (**VMCAI 2025**), with POPL 25
+    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  
+
 - 2024
     - *Static analysis of quantum programs*,
-    Static Analysis: 31th International Symposium (**SAS 2024**)
+    Static Analysis: 31th International Symposium (**SAS 2024**), with SPLASH 24
     Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/sas24.pdf)][[video](https://www.youtube.com/live/F6a0SatXWmU?si=oI6aIHtvuUc1srR9&t=21024)]
     
     - *Abstracting entanglement*, 
-    International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**)
+    International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**), with SPLASH 24
     Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/nsad24.pdf)][[video](https://www.youtube.com/live/AkIzUufinWY?si=Mukzv90_3aSWVgT8&t=28255)]
 
 
@@ -34,7 +39,7 @@ My research interests are quantum programming languages, in particular semantics
 ## Talk
 
 - 2024
-    - *A Static Analysis for High-Level Quantum Programming Languages*, Workshop on Quantum Software 24, PLDI 2024 ([Video](https://www.youtube.com/watch?v=og-IOQeiqh0))
+    - *A Static Analysis for High-Level Quantum Programming Languages*, Workshop on Quantum Software 24 (**WQS 24**), with PLDI 2024 ([Video](https://www.youtube.com/watch?v=og-IOQeiqh0))
 
 
 
