@@ -22,7 +22,7 @@ My research interests are quantum programming languages, in particular semantics
 - 2025
     - *A Static Analysis of Entanglement*,
     26th International Conference on Verification, Model Checking, and Abstract Interpretation (**VMCAI 2025**), with POPL 25
-    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  
+    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/VMCAI_25___Entanglement_Analysis.pdf)]
 
 - 2024
     - *Static analysis of quantum programs*,
