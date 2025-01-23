@@ -71,7 +71,7 @@ My research interests are quantum programming languages, in particular semantics
 
 ## Teaching and Tutoring
 
-- Teaching Assistant, *Quanutum computing* course, *MSc Computer Science*, **University of Verona** (2024 - Present)
+- Teaching Assistant, *Quantum computing* course, *MSc Computer Science*, **University of Verona** (2024 - Present)
 
 - Teaching Assistant, *Foundations of Computing* course, *BSc Computer Science*, **University of Verona** (2020 - 2024)
 
