@@ -80,9 +80,9 @@ My research interests are quantum programming languages, in particular semantics
 
 ## Service
 
-I am part of [SIGPLAN-AV team](https://www.sigplan.org/AV/).
+- Program Committee and Organizing Committee Member of Workshop on Quantum Software (**WQS**) 2024 and 2025
 
-- Video co-chair:
+- I am part of [SIGPLAN-AV team](https://www.sigplan.org/AV/) and I have been Video co-chair during:
     - [POPL 25](https://popl25.sigplan.org/committee/POPL-2025-av-committee)
     - [SPLASH 2024](https://2024.splashcon.org/committee/splash-2024-organizing-committee)
 - AV Student Volunteer:
