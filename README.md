@@ -6,6 +6,9 @@ Quantum Programming Languages PhD Student at the University of Verona
 
 I am a doctoral student at the University of Verona. 
 My research interests are quantum programming languages, in particular semantics and static analysis of quantum programming languages.
+
+In 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying), and at the University of Arizona under the supervision of Prof. [Roberto Giacobazzi](https://www2.cs.arizona.edu/people/giacobazzi/). 
+
 <!--, category theory and topological quantum computing. -->
 <!-- Recently I have been working on semantics of quantum loop and static analysis of quantum languages. -->
 
@@ -80,7 +83,7 @@ My research interests are quantum programming languages, in particular semantics
 
 ## Service
 
-- Program Committee and Organizing Committee Member of Workshop on Quantum Software (**WQS**) 2024 and 2025
+- Program Committee and Organizing Committee Member of Workshop on Quantum Software (**WQS**) [2024](https://pldi24.sigplan.org/home/wqs-2024) and [2025](https://pldi25.sigplan.org/home/wqs-2025)
 
 - I am part of [SIGPLAN-AV team](https://www.sigplan.org/AV/) and I have been Video co-chair during:
     - [POPL 25](https://popl25.sigplan.org/committee/POPL-2025-av-committee)
@@ -97,6 +100,13 @@ My research interests are quantum programming languages, in particular semantics
   - [Workshop on Quantum Software (2024)](https://pldi24.sigplan.org/home/wqs-2024)  
 - Video Chair: [SPLASH (2024)](https://2024.splashcon.org/committee/splash-2024-organizing-committee)
   -->
+
+## Schools 
+- Lipari Summer School on Abstract Interpretation [\href{https://absint24.liparischool.it/}{link}]\\ 
+\textsc{2023} & EQAI 2023 - Quantum Machine and Deep Learning [\href{https://cism.it/en/activities/courses/J2302/#:~:text=EQAI%202023%20%2D%20QUANTUM%20MACHINE%20AND%20DEEP%20LEARNING}{link}]\\ 
+\multicolumn{2}{c}{}\\
+\end{tabular}
+
 
 ## Achievements 
 - Qualified for the national competition of the CyberChallenge.IT project (2021 - 2022)
