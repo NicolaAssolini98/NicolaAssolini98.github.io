@@ -102,10 +102,8 @@ In 2024, I was a visiting researcher at Tsinghua University and Institute of Sof
   -->
 
 ## Schools 
-- Lipari Summer School on Abstract Interpretation [\href{https://absint24.liparischool.it/}{link}]\\ 
-\textsc{2023} & EQAI 2023 - Quantum Machine and Deep Learning [\href{https://cism.it/en/activities/courses/J2302/#:~:text=EQAI%202023%20%2D%20QUANTUM%20MACHINE%20AND%20DEEP%20LEARNING}{link}]\\ 
-\multicolumn{2}{c}{}\\
-\end{tabular}
+- [Lipari Summer School on Abstract Interpretation](https://absint24.liparischool.it/) (Summer 2024)
+- [Quantum Machine and Deep Learning](https://cism.it/en/activities/courses/J2302/#:~:text=EQAI%202023%20%2D%20QUANTUM%20MACHINE%20AND%20DEEP%20LEARNING) (Summer 2023)
 
 
 ## Achievements 
