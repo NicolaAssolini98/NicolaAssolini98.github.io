@@ -16,9 +16,8 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 <!-- ## Markdown linting and style checking for Visual Studio Code -->
 
 1. [Publications](#publications)
-2. [Workshop](#workshop)
-3. [Career](#career)
-4. [Contact Information](#contact-information) 
+2. [Career](#career)
+3. [Contact Information](#contact-information) 
 
 <!-- ## Ongoing Projects   -->
 ## Publications
