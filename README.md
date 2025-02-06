@@ -13,12 +13,12 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 <!--, category theory and topological quantum computing. -->
 <!-- Recently I have been working on semantics of quantum loop and static analysis of quantum languages. -->
 
-<!-- ## Markdown linting and style checking for Visual Studio Code
+<!-- ## Markdown linting and style checking for Visual Studio Code -->
 
-1. [Work Experience](#work-experience)
-2. [Education](#education)
-3. [Invited Talks](#invited-talks)
-4. [Contact Information](#contact-information) -->
+1. [Publications](#publications)
+2. [Workshop](#workshop)
+3. [Career](#career)
+4. [Contact Information](#contact-information) 
 
 <!-- ## Ongoing Projects   -->
 ## Publications
