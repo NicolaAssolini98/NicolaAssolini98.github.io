@@ -25,7 +25,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 - 2025
     - *A Static Analysis of Entanglement*,
     26th International Conference on Verification, Model Checking, and Abstract Interpretation (**VMCAI 2025**), with POPL 25
-    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/VMCAI25__A_Static_Analysis_of_Entanglement.pdf)]
+    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/VMCAI25__A_Static_Analysis_of_Entanglement.pdf)][[video](https://www.youtube.com/live/FZLPRnBHXOc?t=13200s)]
 
 - 2024
     - *Static analysis of quantum programs*,
