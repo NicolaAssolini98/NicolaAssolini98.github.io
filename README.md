@@ -31,11 +31,11 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 - 2024
     - *Static analysis of quantum programs*,
     Static Analysis: 31th International Symposium (**SAS 2024**), with SPLASH 24
-    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/SAS24__Static_Analysis_of_Quantum_Programs.pdf)][[video](https://www.youtube.com/live/F6a0SatXWmU?si=oI6aIHtvuUc1srR9&t=21024)]
+    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/SAS24__Static_Analysis_of_Quantum_Programs.pdf)][[video](https://youtu.be/DLNz1PM-qYU?feature=shared)]
     
     - *Abstracting entanglement*, 
     International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**), with SPLASH 24
-    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/NSAD24__Abstracting_Entanglement.pdf)][[video](https://www.youtube.com/live/AkIzUufinWY?si=Mukzv90_3aSWVgT8&t=28255)]
+    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/NSAD24__Abstracting_Entanglement.pdf)][[video]([https://www.youtube.com/live/AkIzUufinWY?si=Mukzv90_3aSWVgT8&t=28255](https://youtu.be/6_cSZIkw_6A?feature=shared))]
 
 
 ### Workshop
