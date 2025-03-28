@@ -35,7 +35,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
     
     - *Abstracting entanglement*, 
     International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**), with SPLASH 24
-    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/NSAD24__Abstracting_Entanglement.pdf)][[video](https://www.youtube.com/live/AkIzUufinWY?si=Mukzv90_3aSWVgT8&t=28255)][[video](https://youtu.be/6_cSZIkw_6A?feature=shared))]
+    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/NSAD24__Abstracting_Entanglement.pdf)][[video](https://youtu.be/6_cSZIkw_6A?feature=shared))]
 
 
 ### Workshop
