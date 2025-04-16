@@ -32,6 +32,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
           <li><a href="#publications">Publications</a></li>
           <li><a href="#career">Career</a></li>
           <li><a href="#contact-information">Contact Information</a></li>
+          <li><a href="pdf/cv_inglese.pdf">Curriculum Vitae (04-2025)</a></li>
         </ol>
       </p>
     </td>
