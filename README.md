@@ -1,13 +1,6 @@
 # Nicola Assolini
 
 
-
-
-<img src=\"https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" width=600 />
-
-
-<!-- Quantum Programming Languages PhD Student at the University of Verona -->
-
 ## About Me
 
 I am a PhD student at the University of Verona and a member of the Quantum Informatics Laboratory ([QUILAB](https://quilabverona.github.io/)). 
@@ -24,7 +17,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 1. [Publications](#publications)
 2. [Career](#career)
 3. [Contact Information](#contact-information)
-4. [prova](prova.md)
+
 
 <!-- ## Ongoing Projects   -->
 ## Publications
