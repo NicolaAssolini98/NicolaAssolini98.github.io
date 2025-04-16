@@ -1,5 +1,9 @@
 # Nicola Assolini
-![photo_2023-12-29_12-14-08](https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493)
+
+
+
+
+<img src=\"https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" width=600 />
 
 
 <!-- Quantum Programming Languages PhD Student at the University of Verona -->
