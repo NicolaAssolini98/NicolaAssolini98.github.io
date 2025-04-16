@@ -12,12 +12,13 @@ My research interests are quantum programming languages, in particular, semantic
 
 In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying) and in autumn and winter 2024 I visited the University of Arizona under the supervision of Prof. [Roberto Giacobazzi](https://www2.cs.arizona.edu/people/giacobazzi/). 
 -->
-<table style="border-collapse: collapse; border: none;">
+
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
-    <td style="border: none; vertical-align: top; padding-right: 20px;">
-      <img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:400px; height:auto;">
+    <td style="border: none; vertical-align: top; padding-right: 20px; width: 40%;">
+      <img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:100%; height:auto;">
     </td>
-    <td style="border: none; vertical-align: top;">
+    <td style="border: none; vertical-align: top; width: 60%;">
       <h2>About Me</h2>
       <p>
         I am a PhD student at the University of Verona and a member of the Quantum Informatics Laboratory ([QUILAB](https://quilabverona.github.io/)). 
