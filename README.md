@@ -28,7 +28,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 </div>
 
 <div style="flex: 1; padding-right: 20px;">
-<img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:300px; height:auto;">
+<img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:10px; height:auto;">
 </div>
 
 
