@@ -1,5 +1,5 @@
 # Nicola Assolini
-
+<!--
 <img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:300px; height:auto;">
 
 
@@ -11,6 +11,25 @@ My research interests are quantum programming languages, in particular, semantic
 
 
 In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying) and in autumn and winter 2024 I visited the University of Arizona under the supervision of Prof. [Roberto Giacobazzi](https://www2.cs.arizona.edu/people/giacobazzi/). 
+-->
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1; padding-right: 20px;">
+<img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:300px; height:auto;">
+</div>
+
+<div style="flex: 2;">
+<h2>About Me</h2>
+<p>
+I am a PhD student at the University of Verona and a member of the Quantum Informatics Laboratory ([QUILAB](https://quilabverona.github.io/)). 
+My research interests are quantum programming languages, in particular, semantics and static analysis of quantum programming languages.
+</p>
+<p>
+In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying).
+</p>
+</div>
+
+</div>
 
 <!--, category theory and topological quantum computing. -->
 <!-- Recently I have been working on semantics of quantum loop and static analysis of quantum languages. -->
