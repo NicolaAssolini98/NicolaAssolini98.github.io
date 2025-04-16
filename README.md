@@ -27,6 +27,13 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
       <p>
         In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. <a href="https://profiles.uts.edu.au/Mingsheng.Ying">Mingsheng Ying</a> and in autumn and winter 2024 I visited the University of Arizona under the supervision of Prof. <a href="https://www2.cs.arizona.edu/people/giacobazzi/">Roberto Giacobazzi</a>.
       </p>
+      <p>
+        <ol>
+          <li><a href="#publications">Publications</a></li>
+          <li><a href="#career">Career</a></li>
+          <li><a href="#contact-information">Contact Information</a></li>
+        </ol>
+      </p>
     </td>
   </tr>
 </table>
