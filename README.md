@@ -1,5 +1,8 @@
 # Nicola Assolini
 
+<img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:300px; height:auto;">
+
+
 
 ## About Me
 
