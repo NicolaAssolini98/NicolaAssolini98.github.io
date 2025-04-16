@@ -25,7 +25,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
         My research interests are quantum programming languages, in particular, semantics and static analysis of quantum programming languages.
       </p>
       <p>
-        In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. <a href="[link](https://profiles.uts.edu.au/Mingsheng.Ying)"> and in autumn and winter 2024 I visited the University of Arizona under the supervision of Prof. <a href="[link](https://www2.cs.arizona.edu/people/giacobazzi/)">Roberto Giacobazzi</a>.
+        In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. <a href="https://profiles.uts.edu.au/Mingsheng.Ying">Mingsheng Ying</a> and in autumn and winter 2024 I visited the University of Arizona under the supervision of Prof. <a href="https://www2.cs.arizona.edu/people/giacobazzi/">Roberto Giacobazzi</a>.
       </p>
     </td>
   </tr>
