@@ -14,9 +14,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 -->
 <div style="display: flex; align-items: center;">
 
-<div style="flex: 1; padding-right: 20px;">
-<img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:300px; height:auto;">
-</div>
+
 
 <div style="flex: 2;">
 <h2>About Me</h2>
@@ -28,6 +26,11 @@ My research interests are quantum programming languages, in particular, semantic
 In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying).
 </p>
 </div>
+
+<div style="flex: 1; padding-right: 20px;">
+<img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:300px; height:auto;">
+</div>
+
 
 </div>
 
