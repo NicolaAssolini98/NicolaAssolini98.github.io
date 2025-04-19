@@ -78,7 +78,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 
 ## Career
 
-- **University of Verona** (Verona, Italy, 10/2023-10/2025)
+- **University of Verona** (Verona, Italy, 10/2023-)
   - Role: *Ph.D. Student*
   - Quantum programming language, static analysis. quantum semantics
 
