@@ -70,6 +70,9 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 
 ### Workshop
 
+- 2025
+    - *	A Semantics for Quantum Loops*, Workshop on Quantum Software 25 (**WQS 25**), with PLDI 2025
+
 - 2024
     - *A Static Analysis for High-Level Quantum Programming Languages*, Workshop on Quantum Software 24 (**WQS 24**), with PLDI 2024 ([Video](https://www.youtube.com/watch?v=og-IOQeiqh0))
 
