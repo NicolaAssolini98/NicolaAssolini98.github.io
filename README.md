@@ -55,27 +55,31 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 ### International Conferences
 - 2025
     - *A Static Analysis of Entanglement*,
-    26th International Conference on Verification, Model Checking, and Abstract Interpretation (**VMCAI 2025**), with POPL 25
-    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/VMCAI25__A_Static_Analysis_of_Entanglement.pdf)][[video](https://www.youtube.com/live/FZLPRnBHXOc?t=13200s)]
+    26th International Conference on Verification, Model Checking, and Abstract Interpretation (**VMCAI 2025**), with POPL 25. Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/VMCAI25__A_Static_Analysis_of_Entanglement.pdf)][[video](https://www.youtube.com/live/FZLPRnBHXOc?t=13200s)]
 
 - 2024
     - *Static analysis of quantum programs*,
-    Static Analysis: 31th International Symposium (**SAS 2024**), with SPLASH 24
-    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/SAS24__Static_Analysis_of_Quantum_Programs.pdf)][[video](https://youtu.be/DLNz1PM-qYU?feature=shared)]
+    Static Analysis: 31th International Symposium (**SAS 2024**), with SPLASH 24. Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/SAS24__Static_Analysis_of_Quantum_Programs.pdf)][[video](https://youtu.be/DLNz1PM-qYU?feature=shared)]
     
     - *Abstracting entanglement*, 
-    International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**), with SPLASH 24
-    Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/NSAD24__Abstracting_Entanglement.pdf)][[video](https://youtu.be/6_cSZIkw_6A?feature=shared)]
+    International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**), with SPLASH 24. Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/NSAD24__Abstracting_Entanglement.pdf)][[video](https://youtu.be/6_cSZIkw_6A?feature=shared)]
 
 
-### Workshop
+### Preprint
 
 - 2025
-    - *A Semantics for Quantum Loops*, Workshop on Quantum Software 25 (**WQS 25**), with PLDI 2025 [[draft](pdf/Arcxiv___Denotational_Semantics___acmsmall.pdf)]
+  -  *A Semantics for Quantum Loops*. Assolini Nicola, Di Pierro Alessandra[[arxiv](https://arxiv.org/abs/2506.23320)]
+   - *Formal Verification of Variational Quantum Circuits*. Nicola Assolini, Luca Marzari, Isabella Mastroeni, Alessandra di Pierro [[arxiv](https://arxiv.org/abs/2507.10635)]
+
+
+### Workshop Talks
+
+- 2025
+    - *A Semantics for Quantum Loops*, Workshop on Quantum Software 25 (**WQS 25**), with PLDI 2025 [[draft](https://arxiv.org/abs/2506.23320)][[Video](https://youtu.be/3NxoimVZfiI?si=znMeZGcqsnflddVR)]
     - *Interval-based Analysis of Quantum Variational Computing*, First Workshop on Verification of Quantum Computing (**VQC 2025**), with CAV 2025
 
 - 2024
-    - *A Static Analysis for High-Level Quantum Programming Languages*, Workshop on Quantum Software 24 (**WQS 24**), with PLDI 2024 ([Video](https://www.youtube.com/watch?v=og-IOQeiqh0))
+    - *A Static Analysis for High-Level Quantum Programming Languages*, Workshop on Quantum Software 24 (**WQS 24**), with PLDI 2024 [[Video](https://www.youtube.com/watch?v=og-IOQeiqh0)]
 
 
 
