@@ -21,7 +21,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
     <td style="border: none; vertical-align: top; width: 60%;">
       <h2>About Me</h2>
       <p>
-        I am a PhD student at the University of Verona and a member of the Quantum Informatics Laboratory (<a href="https://quilabverona.github.io/">QUILAB</a>). 
+        I am a PhD student at the University of Verona under the supervision of Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=3939">Alessandra Di Pierro</a> and Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=181&lang=en">Isabella Mastroeni</a>, and a member of the Quantum Informatics Laboratory (<a href="https://quilabverona.github.io/">QUILAB</a>). 
         My research interests are quantum programming languages, in particular, semantics and static analysis of quantum programming languages.
       </p>
       <p>
