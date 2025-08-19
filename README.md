@@ -1,17 +1,4 @@
 # Nicola Assolini
-<!--
-<img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:300px; height:auto;">
-
-
-
-## About Me
-
-I am a PhD student at the University of Verona and a member of the Quantum Informatics Laboratory ([QUILAB](https://quilabverona.github.io/)). 
-My research interests are quantum programming languages, in particular, semantics and static analysis of quantum programming languages.
-
-
-In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. [Mingsheng Ying](https://profiles.uts.edu.au/Mingsheng.Ying) and in autumn and winter 2024 I visited the University of Arizona under the supervision of Prof. [Roberto Giacobazzi](https://www2.cs.arizona.edu/people/giacobazzi/). 
--->
 
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
@@ -40,17 +27,7 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 </table>
 
 
-<!--, category theory and topological quantum computing. -->
-<!-- Recently I have been working on semantics of quantum loop and static analysis of quantum languages. -->
 
-<!-- 
-
-1. [Publications](#publications)
-2. [Career](#career)
-3. [Contact Information](#contact-information)
-
-
--->
 ## Publications
 ### International Conferences
 - 2025
@@ -127,18 +104,13 @@ In the spring of 2024, I was a visiting researcher at Tsinghua University and In
 - I am part of [SIGPLAN-AV team](https://www.sigplan.org/AV/) and I have been Video co-chair during:
     - [POPL 25](https://popl25.sigplan.org/committee/POPL-2025-av-committee)
     - [SPLASH 2024](https://2024.splashcon.org/committee/splash-2024-organizing-committee)
+    - [POPL 26](https://popl26.sigplan.org/committee/POPL-2026-organizing-committee)
 - AV Student Volunteer:
     - PLDI 2024
     - POPL 2024
+    - PLDI 2025
 
 
-<!-- ## Academic service
-- Reviewer for:
-  - Quantum Machine Intelligence
-- Program and Organizing Committee:
-  - [Workshop on Quantum Software (2024)](https://pldi24.sigplan.org/home/wqs-2024)  
-- Video Chair: [SPLASH (2024)](https://2024.splashcon.org/committee/splash-2024-organizing-committee)
-  -->
 
 ## Schools 
 - [Lipari Summer School on Abstract Interpretation](https://absint24.liparischool.it/) (Summer 2024)
