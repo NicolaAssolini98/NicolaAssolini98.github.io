@@ -8,11 +8,13 @@
     <td style="border: none; vertical-align: top; width: 60%;">
       <h2>About Me</h2>
       <p>
-        I am a PhD student at the University of Verona under the supervision of Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=3939">Alessandra Di Pierro</a> and Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=181&lang=en">Isabella Mastroeni</a>, and a member of the Quantum Informatics Laboratory (<a href="https://quilabverona.github.io/">QUILAB</a>). 
-        My research interests are quantum programming languages, in particular, semantics and static analysis of quantum programming languages.
+      Research Software Engineer at <a ref="https://www.quantinuum.com/">Quantinuum</a>.
+      In the meanwhile a PhD candidate at the University of Verona under the supervision of Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=3939">Alessandra Di Pierro</a> and Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=181&lang=en">Isabella Mastroeni</a>. 
+      <!-- and a member of the Quantum Informatics Laboratory (<a href="https://quilabverona.github.io/">QUILAB</a>).  -->
       </p>
       <p>
-        In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. <a href="https://profiles.uts.edu.au/Mingsheng.Ying">Mingsheng Ying</a> and in autumn and winter 2024 I visited the University of Arizona under the supervision of Prof. <a href="https://www2.cs.arizona.edu/people/giacobazzi/">Roberto Giacobazzi</a>.
+      My research interests are quantum programming languages, in particular, semantics and static analysis of quantum programming languages.
+        <!-- In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. <a href="https://profiles.uts.edu.au/Mingsheng.Ying">Mingsheng Ying</a> and in autumn and winter 2024 I visited the University of Arizona under the supervision of Prof. <a href="https://www2.cs.arizona.edu/people/giacobazzi/">Roberto Giacobazzi</a>. -->
       </p>
       <p>
         <ol>
