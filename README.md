@@ -6,14 +6,14 @@
       <img src="https://github.com/user-attachments/assets/3fc31ac0-7b42-485d-97c6-613b45b54493" alt="Nicola Assolini" style="width:100%; height:auto;">
     </td>
     <td style="border: none; vertical-align: top; width: 60%;">
-      <h2>About Me</h2>
+      <h3>About Me</h3>
       <p>
       Research Software Engineer at <a ref="https://www.quantinuum.com/">Quantinuum</a>.
-      In the meanwhile a PhD candidate at the University of Verona under the supervision of Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=3939">Alessandra Di Pierro</a> and Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=181&lang=en">Isabella Mastroeni</a>. 
+      <!-- In the meanwhile a PhD candidate at the University of Verona under the supervision of Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=3939">Alessandra Di Pierro</a> and Prof.ssa <a href="https://www.di.univr.it/?ent=persona&id=181&lang=en">Isabella Mastroeni</a>.  -->
       <!-- and a member of the Quantum Informatics Laboratory (<a href="https://quilabverona.github.io/">QUILAB</a>).  -->
       </p>
       <p>
-      My research interests are quantum programming languages, in particular, semantics and static analysis of quantum programming languages.
+      <!-- My research interests are quantum programming languages, in particular, semantics and static analysis of quantum programming languages. -->
         <!-- In the spring of 2024, I was a visiting researcher at Tsinghua University and Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. <a href="https://profiles.uts.edu.au/Mingsheng.Ying">Mingsheng Ying</a> and in autumn and winter 2024 I visited the University of Arizona under the supervision of Prof. <a href="https://www2.cs.arizona.edu/people/giacobazzi/">Roberto Giacobazzi</a>. -->
       </p>
       <p>
@@ -31,30 +31,38 @@
 
 
 ## Publications
+
+### Journal papers
+- 2026
+  - *Challenges in Quantum Programs Analysis*,  Int J Softw Tools Technol Transfer (2026). **Assolini Nicola**, Di Pierro Alessandra, Mastroeni Isabella [doi: 10.1007/s10009-026-00845-1](https://doi.org/10.1007/s10009-026-00845-1) [[pdf](pdf/STTT_26__Challenges_in_Quantum_Programs_Analysis.pdf)]
+
+
 ### International Conferences
 - 2025
     - *A Static Analysis of Entanglement*,
-    26th International Conference on Verification, Model Checking, and Abstract Interpretation (**VMCAI 2025**), with POPL 25. Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/VMCAI25__A_Static_Analysis_of_Entanglement.pdf)][[video](https://www.youtube.com/live/FZLPRnBHXOc?t=13200s)]
+    26th International Conference on Verification, Model Checking, and Abstract Interpretation (**VMCAI 2025**), with POPL 25. **Assolini Nicola**, Di Pierro Alessandra, Mastroeni Isabella  [doi: 10.1007/978-3-031-82703-7_3](https://doi.org/10.1007/978-3-031-82703-7_3) [[pdf](pdf/VMCAI25__A_Static_Analysis_of_Entanglement.pdf)][[video](https://www.youtube.com/live/FZLPRnBHXOc?t=13200s)]
 
 - 2024
     - *Static analysis of quantum programs*,
-    Static Analysis: 31th International Symposium (**SAS 2024**), with SPLASH 24. Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella  [[pdf](pdf/SAS24__Static_Analysis_of_Quantum_Programs.pdf)][[video](https://youtu.be/DLNz1PM-qYU?feature=shared)]
+    Static Analysis: 31th International Symposium (**SAS 2024**), with SPLASH 24. **Assolini Nicola**, Di Pierro Alessandra, Mastroeni Isabella [doi: 10.1007/978-3-031-74776-2_1](https://doi.org/10.1007/978-3-031-74776-2_1) [[pdf](pdf/SAS24__Static_Analysis_of_Quantum_Programs.pdf)][[video](https://youtu.be/DLNz1PM-qYU?feature=shared)]
     
     - *Abstracting entanglement*, 
-    International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**), with SPLASH 24. Assolini Nicola, Di Pierro Alessandra, Mastroeni Isabella [[pdf](pdf/NSAD24__Abstracting_Entanglement.pdf)][[video](https://youtu.be/6_cSZIkw_6A?feature=shared)]
+    International Workshop on Numerical and Symbolic Abstract Domains (**NSAD 24**), with SPLASH 24. **Assolini Nicola**, Di Pierro Alessandra, Mastroeni Isabella [doi: 10.1145/3689609.3689998](https://doi.org/10.1145/3689609.3689998) [[pdf](pdf/NSAD24__Abstracting_Entanglement.pdf)][[video](https://youtu.be/6_cSZIkw_6A?feature=shared)]
 
 
 ### Preprint
 
 - 2025
-  -  *A Semantics for Quantum Loops*. Assolini Nicola, Di Pierro Alessandra[[arxiv](https://arxiv.org/abs/2506.23320)]
-   - *Formal Verification of Variational Quantum Circuits*. Nicola Assolini, Luca Marzari, Isabella Mastroeni, Alessandra di Pierro [[arxiv](https://arxiv.org/abs/2507.10635)]
+  -  *A Semantics for Quantum Loops*. **Assolini Nicola**, Di Pierro Alessandra [[arxiv](https://arxiv.org/abs/2506.23320)]
+  
+  - *Formal Verification of Variational Quantum Circuits*. **Assolini Nicola**, Marzari Luca, Mastroeni Isabella, Di Pierro Alessandra [[arxiv](https://arxiv.org/abs/2507.10635)]
 
 
 ### Workshop Talks
 
 - 2025
-    - *A Semantics for Quantum Loops*, Workshop on Quantum Software 25 (**WQS 25**), with PLDI 2025 [[draft](https://arxiv.org/abs/2506.23320)][[Video](https://youtu.be/3NxoimVZfiI?si=znMeZGcqsnflddVR)]
+    - *A Semantics for Quantum Loops*, Workshop on Quantum Software 25 (**WQS 25**), with PLDI 2025 [[Video](https://youtu.be/3NxoimVZfiI?si=znMeZGcqsnflddVR)]
+  
     - *Interval-based Analysis of Quantum Variational Computing*, First Workshop on Verification of Quantum Computing (**VQC 2025**), with CAV 2025
 
 - 2024
@@ -64,9 +72,13 @@
 
 
 ## Career
+- **Quantinuum** (Cambridge, England, United Kingdom, 12/2025 - present)
+  - Role: Research Software Engineer
 
-- **University of Verona** (Verona, Italy, 10/2023-)
+
+- **University of Verona** (Verona, Italy, 10/2023-05/2026)
   - Role: *Ph.D. Student*
+  - Supervisors: Prof.ssa [Alessandra Di Pierro](https://www.di.univr.it/?ent=persona&id=3939) and Prof.ssa [Isabella Mastroeni](https://www.di.univr.it/?ent=persona&id=181&lang=en). 
   - Quantum programming language, static analysis. quantum semantics
 
 - **University of Verona** (11/2018 - 10/2019)  
@@ -128,7 +140,7 @@
 
 ## Contact Information
 
-- *Email*: ```(λx.λy. "nicola" . x . "assolini" . y . "univr" . x . "it") "." "@"``` <!-- nicola.assolini \<at\> univr.it -->
+- *Email*: ```(λx.λy. "nicola" . x . "assolini" . x. "98" y . "gmail" . x . "com") "." "@"``` <!-- nicola.assolini \<at\> univr.it -->
 - [*LinkedIn*](https://it.linkedin.com/in/nicola-assolini-73508516a)
 - [*Scholar*](https://scholar.google.com/citations?user=wKwxnKkAAAAJ&hl=it)
 - *ORCiD*: [0000-0002-6754-6206](https://orcid.org/0000-0002-6754-6206)
